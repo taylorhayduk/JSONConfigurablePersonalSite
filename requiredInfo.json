@@ -12,6 +12,9 @@
     {"icon": "pencil", "link": "http://taylorhayduk.github.io/"}
   ],
   "projects": [
-    {"title":"CitiVivo", "link":"http://still-stream-8333.herokuapp.com/"}
+    {"title":"TippUS", "link":"http://tipp-us.github.io/"},
+    {"title":"Athena News", "link":"http://athena-news.github.io/"},
+    {"title":"SpeechChat", "link":"http://speechchat.herokuapp.com/"},
+    {"title":"CitiVivo", "link":"http://citivivo.herokuapp.com/"}
   ]
 }
