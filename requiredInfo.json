@@ -8,8 +8,7 @@
   "icons": [
     {"icon": "social-github", "link": "https://github.com/taylorhayduk"},
     {"icon": "social-linkedin", "link": "https://www.linkedin.com/pub/taylor-hayduk/4/10/5b"},
-    {"icon": "mail", "link": "mailto:taylorhayduk@gmail.com"},
-    {"icon": "pencil", "link": "http://taylorhayduk.github.io/"}
+    {"icon": "mail", "link": "mailto:taylorhayduk@gmail.com"}
   ],
   "projects": [
     {"title":"tipp♥us", "link":"http://tipp-us.github.io/"},
