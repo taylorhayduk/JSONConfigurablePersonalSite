@@ -8,7 +8,8 @@
   "icons": [
     {"icon": "social-github", "link": "https://github.com/taylorhayduk"},
     {"icon": "social-linkedin", "link": "https://www.linkedin.com/pub/taylor-hayduk/4/10/5b"},
-    {"icon": "mail", "link": "mailto:taylorhayduk@gmail.com"}
+    {"icon": "mail", "link": "mailto:taylorhayduk@gmail.com"},
+    {"icon": "page", "link": "/resume"},
   ],
   "projects": [
     {"title":"WHIO", "link":"http://www.whio.com/"},
