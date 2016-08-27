@@ -4,13 +4,14 @@
   "avatar": "/img/TaylorGrey.png",
   "background": "TaylorJTree2.jpg",
   "description": "Hi. I'm Taylor Hayduk, a Software Engineer from Athens, Georgia!",
-  "resumeFile": "https://dl.dropboxusercontent.com/u/3848960/corgi.pdf",
+  "resumeFile": "https://drive.google.com/file/d/0B6-gK9z1SRRQM09GTTdCR21oTjQ/view?usp=sharing",
   "icons": [
     {"icon": "social-github", "link": "https://github.com/taylorhayduk"},
     {"icon": "social-linkedin", "link": "https://www.linkedin.com/pub/taylor-hayduk/4/10/5b"},
     {"icon": "mail", "link": "mailto:taylorhayduk@gmail.com"}
   ],
   "projects": [
+    {"title":"WHIO", "link":"http://www.whio.com/"},
     {"title":"tipp♥us", "link":"http://tipp-us.github.io/"},
     {"title":"Athena News", "link":"http://athena-news.github.io/"},
     {"title":"SpeechChat", "link":"http://speechchat.herokuapp.com/"},
