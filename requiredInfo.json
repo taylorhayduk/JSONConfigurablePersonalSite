@@ -1,21 +1,20 @@
 {
   "siteTitle": "Taylor Hayduk",
   "siteDescription": "Taylor Hayduk - Software Engineer",
-  "avatar": "/img/TaylorGrey.png",
-  "background": "TaylorJTree2.jpg",
+  "avatar": "/img/TaylorProfessional.png",
+  "background": "TaylorMValley.jpg",
   "description": "Hi. I'm Taylor Hayduk, a Software Engineer in Midtown Atlanta!",
   "resumeFile": "/img/TaylorHaydukResumeSummer2016.pdf",
   "icons": [
-    {"icon": "social-github", "link": "https://github.com/taylorhayduk"},
+    {"icon": "page", "link": "/resume"},
     {"icon": "social-linkedin", "link": "https://www.linkedin.com/pub/taylor-hayduk/4/10/5b"},
     {"icon": "mail", "link": "mailto:taylorhayduk@gmail.com"},
-    {"icon": "page", "link": "/resume"}
+    {"icon": "social-github", "link": "https://github.com/taylorhayduk"}
   ],
   "projects": [
+    {"title":"CritterJoy", "link":"http://critterjoy.com"},
     {"title":"WHIO", "link":"http://www.whio.com/"},
     {"title":"tipp♥us", "link":"http://tipp-us.github.io/"},
-    {"title":"Athena News", "link":"http://athena-news.github.io/"},
-    {"title":"SpeechChat", "link":"http://speechchat.herokuapp.com/"},
-    {"title":"CitiVivo", "link":"http://citivivo.herokuapp.com/"}
+    {"title":"SpeechChat", "link":"http://speechchat.herokuapp.com/"}
   ]
 }
