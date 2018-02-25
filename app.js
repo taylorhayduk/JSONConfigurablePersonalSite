@@ -4,7 +4,6 @@
 var express  = require('express'),
     path = require('path'),
     app = express(),
-    port = process.env.PORT || 8034,
     dust = require('express-dustjs'),
     links = require('./links'),
     requiredInfo = require('./requiredInfo');
@@ -54,7 +53,7 @@ app.get('*', function (request, response){
     }
 });
 
-console.log(`Server started on http://localhost:${port}`);
-app.listen(port);
+console.log('Server started on http://localhost:8080');
+app.listen(process.env.PORT || 8080);
 
 module.exports = app;
